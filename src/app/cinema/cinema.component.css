@@ -1,0 +1,29 @@
+.clickable{
+    cursor: pointer;
+}
+
+img{
+    float: left;
+    width: 150px;
+    height: 200px;
+    background-size: cover;
+}
+
+.img {
+    float: left;
+    width: 215px;
+    height: 290px;
+    background-size: cover;
+}
+
+.ticket {
+    margin: 5px;
+    width: 40px;
+}
+
+.projections{
+    max-height: 200px;
+    margin-bottom: 10px;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
